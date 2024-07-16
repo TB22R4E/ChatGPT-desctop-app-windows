@@ -1,4 +1,4 @@
-Hey, this is an open project of a desktop app using GPT-4 and ChatGPT-3.5. Of course, you can use any different LLM.
+Hey, this is an open project of a desktop app using GPT-4 and Claude-3.5. Of course, you can use any different LLM.
 
 This is totally working code, so sorry for any issues.
 I will update it regularly.
